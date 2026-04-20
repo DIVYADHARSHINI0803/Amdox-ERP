@@ -13,6 +13,10 @@ dist
 client/node_modules
 server/node_modules
 dist-ssr
+build/
+client/build/
+node_modules/
+.env
 *.local
 
 # Editor directories and files
